@@ -21,8 +21,8 @@ p{
 .bg-red{
     background-color: red;
 }
-.bg-green{
-    background-color:green;
+.bg-blue{
+    background-color:blue;
 }
 .bg-yellow{
     background-color: yellow;    
@@ -73,21 +73,21 @@ h1{
        width:100%;
    }
    .container{
-        border: 2px solid red;
+        border: 2px solid green;
         margin:15px;
         box-sizing: border-box;
         color: white;
    }
    .lg-bg-purple{
-        background-color: purple;
+        background-color: blue;
         color: white;
     }
     .lg-bg-pink{
-        background-color:pink;
+        background-color:yellow;
         color:black;
     }
     .lg-bg-orange{
-        background-color: orange;    
+        background-color: red;    
         color: black;
     }
     .lg-bg-grey{
@@ -138,20 +138,20 @@ h1{
     .container{
         border: 2px solid green;
         box-sizing: border-box;
-        background-color: grey;
+        background-color: yellow;
         margin: 15px;
    }
    .md-bg-red{
-        background-color: red;
+        background-color: blue;
         color: white;
     }
     .md-bg-green{
-        background-color:green;
+        background-color:blue;
         color:white;
     }
     .md-bg-yellow{
-        background-color: yellow;    
-        color: black;
+        background-color: blue;    
+        color: white;
     }
    .md-bg-grey{
         background-color: grey;
@@ -205,25 +205,25 @@ h1{
    }
    .sm-bg-red{
         background-color: red;
-        color: white;
+        color: black;
     }
     .sm-bg-green{
-        background-color:green;
-        color: white;
+        background-color:red;
+        color: black;
     }
     .sm-bg-yellow{
-        background-color: yellow;    
-        color: black;
+        background-color: red;    
+        color:black;
     }
     .title{
         position: relative;
         float: right;
         border: 1px solid black;
-        color: white;
+        color: black;
         font-size: 20px;
         padding: 5px 20px 5px 20px;
     }
     .sm-bg-grey{
-        background-color: grey;
+        background-color: yellow;
     }
 }
